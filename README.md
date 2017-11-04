@@ -5,6 +5,6 @@
 <p>1. You need to have SSL Certificate for your website.</p>
 <p>2. Go in file tg.php, in line 3 enter your bot token and in line 119 change the url that your tg.php exist. </p>
 <p>3. Go to url https://api.telegram.org/bot(token)/setWebhook?url=https://example.com/folder/tg.php</p>
-<p>* Change https://example.com/folder/tg.php to the url that your tg.php file exist</p>
+<p>* Change https://example.com/folder/tg.php to the url that your tg.php file exist and add your bot token to url.</p>
 <p>DONE! Enjoy your new telegram bot!</p>
 
