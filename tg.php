@@ -113,7 +113,7 @@ function apiRequestJson($method, $parameters) {
     return exec_curl_request($handle);
 }
 
-require_once 'message.php';
+require_once 'alt.php';
 
 
 define('WEBHOOK_URL', 'https://example.com/folder/tg.php');
